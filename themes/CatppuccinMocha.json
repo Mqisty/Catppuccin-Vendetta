@@ -124,7 +124,12 @@
         "GREEN_600": "#a6e3a1",
         "RED_400": "#f38ba8",
         "WHITE_500": "#cdd6f4",
-        "GREEN_360": "#a6e3a1"
+        "GREEN_360": "#a6e3a1",
+        "ORANGE_345": "#b4befe",
+        "RED_560": "#eba0ac",
+        "GREEN_345": "#74c7ec",
+        "BLUE_345": "#89b4fa",
+        "BRAND_360": "#89b4fa"
     },
     "spec": 2
 }
