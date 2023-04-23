@@ -42,7 +42,7 @@
             "#181825"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#11111b"
+            "#1e1e2e"
         ],
         "BACKGROUND_TERTIARY": [
             "#181825"
@@ -129,7 +129,8 @@
         "RED_560": "#eba0ac",
         "GREEN_345": "#74c7ec",
         "BLUE_345": "#89b4fa",
-        "BRAND_360": "#89b4fa"
+        "BRAND_360": "#89b4fa",
+        "BRAND_260": "#b4befe"
     },
     "spec": 2
 }
